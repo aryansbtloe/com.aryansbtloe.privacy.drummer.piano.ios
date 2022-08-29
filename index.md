@@ -1,9 +1,9 @@
 Privacy Policy
 
 Your privacy is important to us. It is 
-Musically - Drum and Piano
+Drums n Piano
 's policy to respect your privacy regarding any information we may collect from you through our app, 
-Musically - Drum and Piano
+Drums n Piano
 .
 
 We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. We also let you know why we’re collecting it and how it will be used.
@@ -27,17 +27,17 @@ This policy is effective as of 19 April 2020.
 
 
 
-Musically - Drum and Piano
+Drums n Piano
  Terms of Service
 
 1. Terms
 
 By accessing our app, 
-Musically - Drum and Piano
+Drums n Piano
 , you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing 
-Musically - Drum and Piano
+Drums n Piano
 . The materials contained in 
-Musically - Drum and Piano
+Drums n Piano
  are protected by applicable copyright and trademark law.
 
 
@@ -49,7 +49,7 @@ Musically - Drum and Piano
 
 
 Permission is granted to temporarily download one copy of 
-Musically - Drum and Piano
+Drums n Piano
  per device for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
 
@@ -59,7 +59,7 @@ modify or copy the materials;
 use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
 
 attempt to decompile or reverse engineer any software contained in 
-Musically - Drum and Piano
+Drums n Piano
 ;
 
 remove any copyright or other proprietary notations from the materials; or
@@ -71,7 +71,7 @@ transfer the materials to another person or "mirror" the materials on any other 
 
 
 This license shall automatically terminate if you violate any of these restrictions and may be terminated by 
-Musically - Drum and Piano
+Drums n Piano
  at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
 
 
@@ -81,15 +81,15 @@ Musically - Drum and Piano
 
 
 The materials within 
-Musically - Drum and Piano
+Drums n Piano
  are provided on an 'as is' basis. 
-Musically - Drum and Piano
+Drums n Piano
  makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
 
 Further, 
-Musically - Drum and Piano
+Drums n Piano
  does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to 
-Musically - Drum and Piano
+Drums n Piano
 .
 
 
@@ -97,13 +97,13 @@ Musically - Drum and Piano
 4. Limitations
 
 In no event shall 
-Musically - Drum and Piano
+Drums n Piano
  or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use 
-Musically - Drum and Piano
+Drums n Piano
 , even if 
-Musically - Drum and Piano
+Drums n Piano
  or a 
-Musically - Drum and Piano
+Drums n Piano
  authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 
@@ -111,17 +111,17 @@ Musically - Drum and Piano
 5. Accuracy of materials
 
 The materials appearing in 
-Musically - Drum and Piano
+Drums n Piano
  could include technical, typographical, or photographic errors. 
-Musically - Drum and Piano
+Drums n Piano
  does not warrant that any of the materials on 
-Musically - Drum and Piano
+Drums n Piano
  are accurate, complete or current. 
-Musically - Drum and Piano
+Drums n Piano
  may make changes to the materials contained in 
-Musically - Drum and Piano
+Drums n Piano
  at any time without notice. However 
-Musically - Drum and Piano
+Drums n Piano
  does not make any commitment to update the materials.
 
 
@@ -129,9 +129,9 @@ Musically - Drum and Piano
 6. Links
 
 
-Musically - Drum and Piano
+Drums n Piano
  has not reviewed all of the sites linked to its app and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by 
-Musically - Drum and Piano
+Drums n Piano
  of the site. Use of any such linked website is at the user's own risk.
 
 
@@ -139,9 +139,9 @@ Musically - Drum and Piano
 7. Modifications
 
 
-Musically - Drum and Piano
+Drums n Piano
  may revise these terms of service for its app at any time without notice. By using 
-Musically - Drum and Piano
+Drums n Piano
  you are agreeing to be bound by the then current version of these terms of service.
 
 
@@ -149,11 +149,3 @@ Musically - Drum and Piano
 8. Governing Law
 
 These terms and conditions are governed by and construed in accordance with the laws of Haryana and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
-
-
-<iframe src="https://aryansbtloe.github.io/aryansbtloe.com/" title="" width = 600 , height = 1200>
-</iframe>
-
-</body>
-</html>
